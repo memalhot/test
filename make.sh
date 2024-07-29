@@ -4,7 +4,6 @@ cd /home/jovyan/UnderTheCovers-IM/C/CS210-S23-PS6/ccalc/src
 ls
 ln -s ccalc.mk Makefile
 ls
-more Makefile 
 make data/reference_simpleone.prebin
 ls
 pwd
