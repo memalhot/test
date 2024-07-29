@@ -43,4 +43,4 @@ rm Makefile
 ln -s ccalc.mk Makefile
 ./testcalc.sh ccalc_simpleone 1
 gdb ccalc_simpleone
-hexdump -C out2
+hexdump -C out
