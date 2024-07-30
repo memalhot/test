@@ -45,5 +45,6 @@ ln -s ccalc.mk Makefile
 gdb ccalc_simpleone
 hexdump -C out
 sleep 2
+cd
 cd /home/jovyan/UnderTheCovers-IM/C/CS210-S23-PS6/ccalc/src
 ./test.sh
